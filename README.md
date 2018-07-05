@@ -1,5 +1,5 @@
 # Save-Mario
-Save-Mario is a web based game in which player is supposed save the character named **Mario** from the missiles launched towards him. It is players task to help mario reach home and not get hit by those missiles.
+Save-Mario is a web based game in which player is supposed save the character named **Mario** from the missiles launched towards him. It is player's job to help mario reach home and not get hit by those missiles.
 
 ## Prerequisites
   Internet connection is all you need.
